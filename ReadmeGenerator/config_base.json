@@ -29,7 +29,7 @@
     },
     {
         "type": "intro",
-        "data": "Hello, Hector Pulido is Here! 👋"
+        "data": "Hi! I'm luisquid 🦑"
     },
     {
         "type": "description",
@@ -43,7 +43,7 @@
         "type": "rightImage",
         "data": {
             "image": "https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png",
-            "link": "https://twitter.com/Hector_Pulido_"
+            "link": "https://twitter.com/luisquid"
         }
     },
     {
@@ -86,23 +86,23 @@
             "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
             "social": [
                 {
-                    "alt": "Hector's LinkedIn",
-                    "url": "https://www.linkedin.com/in/hector-pulido-17547369/",
+                    "alt": "Squid's LinkedIn",
+                    "url": "https://www.linkedin.com/in/luis-bernardo-bazan-bravo-21b0b0117/",
                     "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
                 },
                 {
-                    "alt": "Hector's Twitter",
-                    "url": "https://twitter.com/Hector_Pulido_",
+                    "alt": "Squid's Twitter",
+                    "url": "https://twitter.com/luisquid",
                     "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
                 },
                 {
-                    "alt": "Hector's Twitch",
-                    "url": "https://www.twitch.tv/hector_pulido_",
+                    "alt": "Squid's Twitch",
+                    "url": "https://www.twitch.tv/luisquid_",
                     "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
                 },
                 {
-                    "alt": "Hector's Youtube",
-                    "url": "https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw",
+                    "alt": "Squid's Youtube",
+                    "url": "https://www.youtube.com/channel/UCX2KlpFCbs3MG9WLqCNMJxA",
                     "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
                 }
             ]
