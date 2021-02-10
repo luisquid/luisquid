@@ -1,4 +1,4 @@
-# Hello, Hector Pulido is Here! 👋
+# Hi! I'm luisquid 🦑
 
 
 `Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
@@ -12,7 +12,7 @@
 </p>
 
 
-<a href="https://twitter.com/Hector_Pulido_">
+<a href="https://twitter.com/luisquid">
 <img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
 </a>
 
@@ -54,14 +54,14 @@
 <h3 align="center">Let's connect 😋</h3>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/hector-pulido-17547369/" target="blank">
-<img align="center" width="30px" alt="Hector's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://twitter.com/Hector_Pulido_" target="blank">
-<img align="center" width="30px" alt="Hector's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.twitch.tv/hector_pulido_" target="blank">
-<img align="center" width="30px" alt="Hector's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw" target="blank">
-<img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/luis-bernardo-bazan-bravo-21b0b0117/" target="blank">
+<img align="center" width="30px" alt="Squid's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://twitter.com/luisquid" target="blank">
+<img align="center" width="30px" alt="Squid's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.twitch.tv/luisquid_" target="blank">
+<img align="center" width="30px" alt="Squid's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.youtube.com/channel/UCX2KlpFCbs3MG9WLqCNMJxA" target="blank">
+<img align="center" width="30px" alt="Squid's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
 
 </p>
 
