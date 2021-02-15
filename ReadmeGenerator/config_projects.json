@@ -1,7 +1,7 @@
 [
     {
         "type": "intro",
-        "data": "Hector Pulido's -category- projects! 👋"
+        "data": "luisquid's -category- projects! 👾"
     },
     {
         "type": "description",
@@ -14,8 +14,8 @@
     {
         "type": "rightImage",
         "data": {
-            "image": "https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png",
-            "link": "https://twitter.com/Hector_Pulido_"
+            "image": "https://github.com/luisquid/luisquid/raw/master/img/SquidPP.png",
+            "link": "https://twitter.com/luisquid"
         }
     },
     {
@@ -34,7 +34,7 @@
     {
         "type": "social",
         "data": {
-            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">You can find me @</h3>\n</div>",
             "social": [
                 {
                     "alt": "Squid's LinkedIn",

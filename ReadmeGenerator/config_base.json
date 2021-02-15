@@ -2,27 +2,17 @@
     {
         "type": "config",
         "data": {
-            "githubUser": "HectorPulido",
+            "githubUser": "luisquid",
             "categories": [
                 {
-                    "name": "AI",
+                    "name": "Bots",
                     "emoji": "🤖",
-                    "tag": "ai"
+                    "tag": "bots"
                 },
                 {
                     "name": "GameDev",
                     "emoji": "🎮",
                     "tag": "gamedev"
-                },
-                {
-                    "name": "Blockchain",
-                    "emoji": "🔑",
-                    "tag": "blockchain"
-                },
-                {
-                    "name": "Backend",
-                    "emoji": "💻",
-                    "tag": "backend"
                 }
             ]
         }
@@ -42,25 +32,8 @@
     {
         "type": "rightImage",
         "data": {
-            "image": "https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png",
+            "image": "https://github.com/luisquid/luisquid/raw/master/img/SquidPP.png",
             "link": "https://twitter.com/luisquid"
-        }
-    },
-    {
-        "type": "techStack",
-        "data": {
-            "title": "Tech Stack ⌨",
-            "tech": [
-                "Python and Flask, Django ⭐",
-                "Pytorch ⭐",
-                "C# and .Net Technologies",
-                "Javascript and NodeJs",
-                "SQL and Relational Databases",
-                "Linux, AWS and Docker",
-                "Unity3D ⭐",
-                "Arduino and electronics",
-                "ASM for Pics"
-            ]
         }
     },
     {
@@ -83,7 +56,7 @@
     {
         "type": "social",
         "data": {
-            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">You can find me @</h3>\n</div>",
             "social": [
                 {
                     "alt": "Squid's LinkedIn",
