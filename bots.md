@@ -11,7 +11,7 @@
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/master/img/SquidPP.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/master/img/SquidPP_Circular.png"/>
 </a>
 
 
