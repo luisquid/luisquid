@@ -1,7 +1,7 @@
 # luisquid's Bots projects! 👾
 
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
+<br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful!
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-<h3 align="center">You can find me @</h3>
+<h3 align="center">Find me @</h3>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-bernardo-bazan-bravo-21b0b0117/" target="blank">
