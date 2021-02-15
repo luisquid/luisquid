@@ -5,40 +5,17 @@
 
 
 <p align="center">
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/ai.md">🤖</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/backend.md">💻</a>
+<a href="https://github.com/luisquid/luisquid/blob/master/bots.md">🤖</a>
+<a href="https://github.com/luisquid/luisquid/blob/master/gamedev.md">🎮</a>
 </p>
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/master/img/SquidPP.png"/>
 </a>
 
 
-## Tech Stack ⌨
-- Python and Flask, Django ⭐
-- Pytorch ⭐
-- C# and .Net Technologies
-- Javascript and NodeJs
-- SQL and Relational Databases
-- Linux, AWS and Docker
-- Unity3D ⭐
-- Arduino and electronics
-- ASM for Pics
-
-
 ## Awesome Projects 📚
-- [Evolutionary neural networks on unity for bots  🤖 🎮](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots) 
-- [Unity battle royale game made with unity  🎮](https://github.com/HectorPulido/Unity-Battle-Royale-game-Made-With-Unity) 
-- [Multi layer perceptron  🤖](https://github.com/HectorPulido/Multi-layer-perceptron) 
-- [Unity mmo framework  🎮 💻](https://github.com/HectorPulido/Unity-MMO-Framework) 
-- [Worms like game made with unity  🎮](https://github.com/HectorPulido/Worms-like-game-made-with-unity) 
-- [Simple rts made with unity  🎮](https://github.com/HectorPulido/Simple-RTS-Made-With-Unity) 
-- [Mario maker like game made with unity  🎮](https://github.com/HectorPulido/Mario-maker-like-game-made-with-unity) 
-- [Chatbot seq2seq c   🤖](https://github.com/HectorPulido/Chatbot-seq2seq-C-) 
-- [Angry birds like game made with unity and c   🎮](https://github.com/HectorPulido/Angry-birds-like-game-made-with-UNITY-and-C-) 
 
 
 
@@ -51,7 +28,7 @@
 </p>
 
 <div align="center">
-<h3 align="center">Let's connect 😋</h3>
+<h3 align="center">You can find me @</h3>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-bernardo-bazan-bravo-21b0b0117/" target="blank">
