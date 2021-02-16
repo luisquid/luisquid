@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://github.com/luisquid/luisquid/blob/master/bots.md">🤖</a>
+<a href="https://github.com/luisquid/luisquid/blob/master/bot.md">🤖</a>
 <a href="https://github.com/luisquid/luisquid/blob/master/gamedev.md">🎮</a>
 </p>
 
@@ -17,6 +17,7 @@
 
 ## Current Projects 📚
 - [Twitch jelly tethrex  🎮](https://github.com/luisquid/twitch-jelly-tethrex) 
+- [Discord chimera bot  🤖](https://github.com/luisquid/discord-chimera-bot) 
 - [Proyecto semestral ii  🎮](https://github.com/luisquid/proyecto-semestral-ii) 
 - [Cgj totemsito  🎮](https://github.com/luisquid/cgj-totemsito) 
 - [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
