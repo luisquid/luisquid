@@ -1,4 +1,4 @@
-# luisquid's GameDev projects! 👾
+# luisquid's Bots projects! 👾
 
 
 <br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful!
@@ -15,13 +15,8 @@
 </a>
 
 
-## GameDev Projects 🎮
-- [Twitch jelly tethrex  🎮](https://github.com/luisquid/twitch-jelly-tethrex) 
-- [Proyecto semestral ii  🎮](https://github.com/luisquid/proyecto-semestral-ii) 
-- [Cgj totemsito  🎮](https://github.com/luisquid/cgj-totemsito) 
-- [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
-- [Os animalgame  🎮](https://github.com/luisquid/os-animalgame) 
-- [Kalorian jam  🎮](https://github.com/luisquid/kalorian-jam) 
+## Bots Projects 🤖
+- [Discord chimera bot  🤖](https://github.com/luisquid/discord-chimera-bot) 
 
 
 
