@@ -42,7 +42,7 @@
 <img align="center" width="30px" alt="Squid's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://twitter.com/luisquid" target="blank">
 <img align="center" width="30px" alt="Squid's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.twitch.tv/luisquid_" target="blank">
+<a href="https://www.twitch.tv/luisquidTV" target="blank">
 <img align="center" width="30px" alt="Squid's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/channel/UCX2KlpFCbs3MG9WLqCNMJxA" target="blank">
 <img align="center" width="30px" alt="Squid's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
