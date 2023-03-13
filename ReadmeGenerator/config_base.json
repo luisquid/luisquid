@@ -5,25 +5,35 @@
             "githubUser": "luisquid",
             "categories": [
                 {
-                    "name": "Bots",
-                    "emoji": "🤖",
-                    "tag": "bot"
+                    "name": "Game Jams",
+                    "emoji": "👾",
+                    "tag": "gamejam"
                 },
                 {
-                    "name": "GameDev",
+                    "name": "Game Projects",
                     "emoji": "🎮",
                     "tag": "gamedev"
+                },              
+                {
+                    "name": "Learning Repositories",
+                    "emoji": "📖",
+                    "tag": "learning"
+                },
+                {
+                    "name": "Web",
+                    "emoji": "🌐",
+                    "tag": "web"
                 }
             ]
         }
     },
     {
         "type": "intro",
-        "data": "Hi! I'm luisquid 🦑"
+        "data": "Hi! My name is Luis Bazan, but I go by Squid or luisquid on social media 🦑"
     },
     {
         "type": "description",
-        "data": "<br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful!"
+        "data": "<br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful! I'm currently leading a support team @Unity Technologies."
     },
     {
         "type": "categories",
@@ -37,10 +47,26 @@
         }
     },
     {
+        "type" : "techStack",
+        "data": {
+            "title": "Skills 🧰",
+            "tech":[
+                "C# and C++ programming",
+                "UI/UX implementation", 
+                "Games Engine knowledge (Unity⭐⭐⭐, Unreal⭐⭐, Godot⭐)",
+                "3D Modelling (Blender)",
+                "Public speaking and teaching",
+                "Project and team management",
+                "Version control (Git⭐⭐⭐, Plastic SCM⭐)",
+                "Some graphic design knowledge (GIMP, Photoshop, CSP, Procreate)"
+            ]
+        }
+    },
+    {
         "type": "awesomeProjects",
         "data": {
-            "title": "Current Projects 📚",
-            "count": 15,
+            "title": "Active Projects 🔥",
+            "count": 5,
             "showEmojis": true,
             "showScore": false
         }
