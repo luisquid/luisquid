@@ -1,4 +1,4 @@
-# Squid's Game Projects projects! 👾
+# Squid's Web projects! 👾
 
 
 <a href="https://twitter.com/luisquid">
