@@ -24,7 +24,7 @@ def description(data, context):
 def categories(data, context):
     categories = []
     for category in context["categories"]:
-        link = "https://github.com/{}/{}/blob/master/{}.md".format(
+        link = "https://github.com/{}/{}/blob/main/{}.md".format(
             context["github_user"], context["github_user"], category["tag"]
         )
         template = f"<a href=\"{link}\">{category['emoji']}</a>"
