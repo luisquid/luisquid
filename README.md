@@ -12,15 +12,6 @@
 </p>
 
 
-## Active Projects 🔥
-- [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
-- [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
-- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
-- [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
-- [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
-
-
-
 <a href="https://twitter.com/luisquid">
 <img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/master/img/SquidPP_Circular.png"/>
 </a>
@@ -38,6 +29,15 @@
 
 
 <br>
+
+## Active Projects 🔥
+- [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
+- [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
+- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
+- [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
+- [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
+
+
 
 <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
