@@ -1,4 +1,4 @@
-# Hi! My name is Luis Bazan, but I go by Squid or luisquid on social media 🦑
+# Hi! I'm Squid くコ:彡
 
 
 <br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful! :D I'm currently leading a support team @Unity Technologies.
