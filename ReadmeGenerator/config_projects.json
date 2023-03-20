@@ -10,7 +10,15 @@
             "link": "https://twitter.com/luisquid"
         }
     },
-    
+    {
+        "type": "awesomeProjects",
+        "data": {
+            "title": "-category- Projects -emoji-",
+            "count": 999,
+            "showEmojis": true,
+            "showScore": false
+        }
+    },
     {
         "type": "categories",
         "data": {}
