@@ -40,6 +40,16 @@
         "data": {}
     },
     {
+        "type": "awesomeProjects",
+        "data": {
+            "title": "Active Projects 🔥",
+            "count": 5,
+            "showEmojis": true,
+            "showScore": false,
+            "ignore_pinned": true
+        }
+    },    
+    {
         "type": "rightImage",
         "data": {
             "image": "https://github.com/luisquid/luisquid/raw/master/img/SquidPP_Circular.png",
