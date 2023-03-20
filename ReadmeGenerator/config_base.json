@@ -45,7 +45,7 @@
             "title": "Active Projects 🔥",
             "count": 5,
             "showEmojis": true,
-            "showScore": true,
+            "showScore": false,
             "ignore_pinned": true
         }
     },    
