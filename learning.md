@@ -6,6 +6,12 @@
 </a>
 
 
+## Learning Repositories Projects 📖
+- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
+- [Opengl para principiantes  📖](https://github.com/luisquid/opengl-para-principiantes) 
+
+
+
 <p align="center">
 <a href="https://github.com/luisquid/luisquid/blob/master/gamejam.md">👾</a>
 <a href="https://github.com/luisquid/luisquid/blob/master/gamedev.md">🎮</a>

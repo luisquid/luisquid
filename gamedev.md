@@ -6,6 +6,15 @@
 </a>
 
 
+## Game Projects Projects 🎮
+- [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
+- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
+- [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
+- [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
+- [Twitch jelly tethrex  🎮 📖](https://github.com/luisquid/twitch-jelly-tethrex) 
+
+
+
 <p align="center">
 <a href="https://github.com/luisquid/luisquid/blob/master/gamejam.md">👾</a>
 <a href="https://github.com/luisquid/luisquid/blob/master/gamedev.md">🎮</a>

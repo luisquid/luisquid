@@ -6,6 +6,12 @@
 </a>
 
 
+## Game Jams Projects 👾
+- [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
+- [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
+
+
+
 <p align="center">
 <a href="https://github.com/luisquid/luisquid/blob/master/gamejam.md">👾</a>
 <a href="https://github.com/luisquid/luisquid/blob/master/gamedev.md">🎮</a>
