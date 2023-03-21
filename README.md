@@ -5,15 +5,15 @@
 
 
 <p align="center">
-<a href="https://github.com/luisquid/luisquid/blob/master/gamejam.md">👾</a>
-<a href="https://github.com/luisquid/luisquid/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/luisquid/luisquid/blob/master/learning.md">📖</a>
-<a href="https://github.com/luisquid/luisquid/blob/master/web.md">🌐</a>
+<a href="https://github.com/luisquid/luisquid/blob/main/gamejam.md">👾</a>
+<a href="https://github.com/luisquid/luisquid/blob/main/gamedev.md">🎮</a>
+<a href="https://github.com/luisquid/luisquid/blob/main/learning.md">📖</a>
+<a href="https://github.com/luisquid/luisquid/blob/main/web.md">🌐</a>
 </p>
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/master/img/SquidPP_Circular.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/SquidPP_Circular.png"/>
 </a>
 
 
