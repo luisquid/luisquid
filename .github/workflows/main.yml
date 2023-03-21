@@ -6,7 +6,7 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:    
     - cron: "5 0 * * 1"
 
@@ -45,11 +45,11 @@ jobs:
           git config --global --add safe.directory /luisquid/luisquid
           git commit -m 'deploy' 
 
-      # Upload static files to master
-      - name: Force push to master
-        uses: ad-m/github-push-action@master
+      # Upload static files to main
+      - name: Force push to main
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
           directory: ./
