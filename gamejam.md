@@ -2,13 +2,13 @@
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/SquidPP_Circular.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR.jpg"/>
 </a>
 
 
 ## Game Jams Projects 👾
 - [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
-- [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
+- [Gmtk2020 anxiety game  👾](https://github.com/luisquid/gmtk2020-anxiety-game) 
 
 
 

@@ -2,16 +2,15 @@
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/SquidPP_Circular.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR.jpg"/>
 </a>
 
 
 ## Game Projects Projects 🎮
 - [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
-- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
 - [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
 - [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
-- [Twitch jelly tethrex  🎮 📖](https://github.com/luisquid/twitch-jelly-tethrex) 
+- [Jelly tethrex  🎮 📖](https://github.com/luisquid/jelly-tethrex) 
 
 
 

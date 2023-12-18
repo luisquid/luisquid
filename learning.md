@@ -2,13 +2,12 @@
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/SquidPP_Circular.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR.jpg"/>
 </a>
 
 
 ## Learning Repositories Projects 📖
-- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
-- [Opengl para principiantes  📖](https://github.com/luisquid/opengl-para-principiantes) 
+- [Jelly tethrex  🎮 📖](https://github.com/luisquid/jelly-tethrex) 
 - [Learn react  📖 🌐](https://github.com/luisquid/learn-react) 
 
 

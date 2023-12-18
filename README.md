@@ -13,7 +13,7 @@
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR.jpg"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/SquidPP_Circular.png"/>
 </a>
 
 
@@ -32,7 +32,7 @@
 
 ## Active Projects 🔥
 - [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
-- [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
+- [Gmtk2020 anxiety game  👾](https://github.com/luisquid/gmtk2020-anxiety-game) 
 - [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
 - [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
 - [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
