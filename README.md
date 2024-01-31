@@ -39,8 +39,6 @@
 
 
 
-<a href="https://github.com/luisquid/godot-learning">🌟 Godot Learning</a><br><a href="https://github.com/luisquid/opengl-para-principiantes">🤖 Open GL Para Principiantes</a><br><a href="https://github.com/luisquid/3d-renderer">🌟 3D Renderer</a><br>
-
 <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisquid&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Squid's Github Stats"/>
