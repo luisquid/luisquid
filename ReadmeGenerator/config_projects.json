@@ -17,7 +17,7 @@
             "count": 999,
             "showEmojis": true,
             "showScore": false,
-            "ignore_pinned": true
+            "ignore_pinned": false
         }
     },
     {
