@@ -77,10 +77,11 @@
         }
     },   
     {
-        "type": "extra",
-        "data": {
+    "type": "extra",
+    "data": {
         "title": "Active projects 🔥",
         "data": "<a href=\"https://github.com/myuser/project1\">🌟 Project1</a><br><a href=\"https://github.com/myuser/project2\">🤖 Project2</a><br> "
+        }
     },
     {
         "type": "social",
