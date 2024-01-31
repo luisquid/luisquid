@@ -66,23 +66,26 @@
         "type": "space",
         "data": {}
     },
+    
+    {
+        "type": "activeProjects",
+        "data": {
+            "title": "Active Projects 🔥",
+            "data": "<ul><li><a href=\"https://github.com/luisquid/3d-renderer\">🌐 SDL 3D Renderer</a><br></li><li><a href=\"https://github.com/luisquid/godot-learning\">🤖 Godot Learning Projects</a><br></li><li><a href=\"https://github.com/luisquid/opengl-para-principiantes\">📖 OpenGL para Principiantes</a><br></li></ul>"
+        }
+    },
+
     {
         "type": "awesomeProjects",
         "data": {
-            "title": "Awesome Projects 🔥",
-            "count": 9,
+            "title": "Other Projects 💿",
+            "count": 5,
             "showEmojis": true,
             "showScore": false,
             "ignore_pinned": true
         }
     },
-    {
-        "type": "activeProjects",
-        "data": {
-            "title": "Active Projects 🔥",
-            "data": "<ul><li><a href=\"https://github.com/myuser/project1\">🌟 Project1</a><br></li><li><a href=\"https://github.com/myuser/project2\">🤖 Project2</a><br></li></ul>"
-        }
-    },
+
     {
         "type": "social",
         "data": {
