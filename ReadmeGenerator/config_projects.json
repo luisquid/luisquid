@@ -16,7 +16,7 @@
             "title": "-category- Projects -emoji-",
             "count": 999,
             "showEmojis": true,
-            "showScore": false,
+            "showScore": true,
             "ignore_pinned": false
         }
     },

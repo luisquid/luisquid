@@ -47,7 +47,6 @@ def get_projects(github_user, query):
 
             if "members" not in project_data:
                 project_data["members"] = 0
-            print("Inside Impact")
             project_data["score"] = project_data["stargazers"] + project_data["members"] * 5
         else:
             project_data["score"] = 0
