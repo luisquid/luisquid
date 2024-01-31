@@ -75,10 +75,6 @@
             "showScore": true,
             "ignore_pinned": true
         }
-    },   
-    {
-        "type": "extra",
-        "data": "<a href=\"https://github.com/luisquid/godot-learning\">🌟 Godot Learning</a><br><a href=\"https://github.com/luisquid/opengl-para-principiantes\">🤖 Open GL Para Principiantes</a><br><a href=\"https://github.com/luisquid/3d-renderer\">🌟 3D Renderer</a><br>"
     },
     {
         "type": "extra",
