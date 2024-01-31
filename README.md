@@ -30,13 +30,20 @@
 
 <br>
 
-## Active Projects 🔥
+## Awesome Projects 🔥
 - [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
 - [Gmtk2020 anxiety game  👾](https://github.com/luisquid/gmtk2020-anxiety-game) 
 - [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
 - [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
 - [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
+- [Os animalgame  🎮](https://github.com/luisquid/os-animalgame) 
+- [3d renderer  📖](https://github.com/luisquid/3d-renderer) 
+- [Learn react  📖 🌐](https://github.com/luisquid/learn-react) 
 
+
+
+## Active Projects 🔥
+<a href="https://github.com/myuser/project1">🌟 Project1</a><br><a href="https://github.com/myuser/project2">🤖 Project2</a><br>
 
 
 <div align="center">
