@@ -73,7 +73,7 @@
             "count": 5,
             "showEmojis": true,
             "showScore": false,
-            "ignore_pinned": true
+            "ignore_pinned": false
         }
     },   
     {
