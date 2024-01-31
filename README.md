@@ -34,8 +34,8 @@
 - [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
 - [Gmtk2020 anxiety game  👾](https://github.com/luisquid/gmtk2020-anxiety-game) 
 - [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
+- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
 - [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
-- [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
 
 
 
