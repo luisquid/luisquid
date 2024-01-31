@@ -8,8 +8,10 @@
 
 ## Game Projects Projects 🎮
 - [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
+- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
 - [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
 - [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
+- [Os animalgame  🎮](https://github.com/luisquid/os-animalgame) 
 - [Jelly tethrex  🎮 📖](https://github.com/luisquid/jelly-tethrex) 
 
 

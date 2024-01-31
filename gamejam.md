@@ -9,6 +9,7 @@
 ## Game Jams Projects 👾
 - [Todo crt game  👾 🎮](https://github.com/luisquid/todo-crt-game) 
 - [Gmtk2020 anxiety game  👾](https://github.com/luisquid/gmtk2020-anxiety-game) 
+- [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
 
 
 

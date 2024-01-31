@@ -7,8 +7,10 @@
 
 
 ## Learning Repositories Projects 📖
+- [Godot learning  🎮 📖](https://github.com/luisquid/godot-learning) 
 - [Jelly tethrex  🎮 📖](https://github.com/luisquid/jelly-tethrex) 
 - [3d renderer  📖](https://github.com/luisquid/3d-renderer) 
+- [Opengl para principiantes  📖](https://github.com/luisquid/opengl-para-principiantes) 
 - [Learn react  📖 🌐](https://github.com/luisquid/learn-react) 
 
 
