@@ -69,11 +69,18 @@
     {
         "type": "awesomeProjects",
         "data": {
-            "title": "Active Projects 🔥",
-            "count": 5,
+            "title": "Awesome Projects 🔥",
+            "count": 9,
             "showEmojis": true,
-            "showScore": true,
+            "showScore": false,
             "ignore_pinned": true
+        }
+    },
+    {
+        "type": "activeProjects",
+        "data": {
+            "title": "Active Projects 🔥",
+            "data": "<a href=\"https://github.com/myuser/project1\">🌟 Project1</a><br><a href=\"https://github.com/myuser/project2\">🤖 Project2</a><br>"
         }
     },
     {

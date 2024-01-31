@@ -89,7 +89,14 @@ def awesome_projects(data, context):
 
     return f"{title}\n{projects_data}\n"
 
-
+def active_projects(data, context):
+    if "title" in data:
+        title = process_title(data["title"], context)
+        data = data["data"]
+        return f"{title}\n{data}\n"
+    else:
+        return data
+    
 def extra(data, context):
     if "title" in data:
         title = process_title(data["title"], context)
@@ -190,6 +197,7 @@ types = {
     "rightImage": right_image,
     "techStack": tech_stack,
     "awesomeProjects": awesome_projects,
+    "activeProjects": active_projects,
     "extra": extra,
     "social": social,
     "youtube_video_list": youtube_video_list,
