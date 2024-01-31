@@ -95,6 +95,8 @@ def extra(data, context):
         title = process_title(data["title"], context)
         data = data["data"]
         return f"{title}\n{data}\n"
+    else:
+        return data
 
 
 def social(data, context):
