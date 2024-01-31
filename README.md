@@ -43,7 +43,7 @@
 
 
 ## Active Projects 🔥
-<a href="https://github.com/myuser/project1">🌟 Project1</a><br><a href="https://github.com/myuser/project2">🤖 Project2</a><br>
+<ul><li><a href="https://github.com/myuser/project1">🌟 Project1</a><br></li><li><a href="https://github.com/myuser/project2">🤖 Project2</a><br></li></ul>
 
 
 <div align="center">
