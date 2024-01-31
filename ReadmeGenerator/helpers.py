@@ -17,11 +17,11 @@ def intro(data, context):
     return f"# {data}\n"
 
 
-def description(data, context):
+def description(data, _):
     return f"{data}\n"
 
 
-def categories(data, context):
+def get_categories(_, context):
     categories = []
     for category in context["categories"]:
         link = "https://github.com/{}/{}/blob/main/{}.md".format(
@@ -35,7 +35,7 @@ def categories(data, context):
     return f'<p align="center">\n{categories_text}\n</p>\n'
 
 
-def right_image(data, context):
+def right_image(data, _):
     properties = 'align="right" height="auto" width="200"'
     return '<a href="{}">\n<img {} src="{}"/>\n</a>\n'.format(
         data["link"], properties, data["image"]
@@ -81,10 +81,9 @@ def awesome_projects(data, context):
 
         score = ""
         if data["showScore"]:
-            # forks = project["members"]
-            # 🌿{forks}
+            forks = project["members"]
             stars = project["stargazers"]
-            score = f"⭐{stars}"
+            score = f"🌿{forks} ⭐{stars}"
 
         projects_data += f'- [{project["name"]} {score} {emojis}]({url}) \n'
 
@@ -92,7 +91,10 @@ def awesome_projects(data, context):
 
 
 def extra(data, context):
-    return data
+    if "title" in data:
+        title = process_title(data["title"], context)
+        data = data["data"]
+        return f"{title}\n{data}\n"
 
 
 def social(data, context):
@@ -114,7 +116,7 @@ def social(data, context):
     return f'{title}\n<p align="center">\n{social}\n</p>\n'
 
 
-def space(data, context):
+def space(_, __):
     return "<br>"
 
 
@@ -182,7 +184,7 @@ types = {
     "space": space,
     "intro": intro,
     "description": description,
-    "categories": categories,
+    "categories": get_categories,
     "rightImage": right_image,
     "techStack": tech_stack,
     "awesomeProjects": awesome_projects,
