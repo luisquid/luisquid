@@ -8,6 +8,7 @@
 
 ## Learning Repositories Projects 📖
 - [Jelly tethrex  🎮 📖](https://github.com/luisquid/jelly-tethrex) 
+- [3d renderer  📖](https://github.com/luisquid/3d-renderer) 
 - [Learn react  📖 🌐](https://github.com/luisquid/learn-react) 
 
 
