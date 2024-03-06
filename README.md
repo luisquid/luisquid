@@ -31,7 +31,7 @@
 <br>
 
 ## Active Projects 🔥
-<ul><li><a href="https://github.com/luisquid/3d-renderer">🌐 SDL 3D Renderer</a><br></li><li><a href="https://github.com/luisquid/godot-learning">🤖 Godot Learning Projects</a><br></li><li><a href="https://github.com/luisquid/opengl-para-principiantes">📖 OpenGL para Principiantes</a><br></li></ul>
+<ul><li><a href="https://github.com/luisquid/unity-shaders-bible">✨ Unity Shaders Bible Project</a><br></li><li><a href="https://github.com/luisquid/godot-learning">🤖 Godot Learning Projects</a><br></li><li><a href="https://github.com/luisquid/opengl-para-principiantes">📖 OpenGL para Principiantes</a><br></li></ul>
 
 
 ## Other Projects 💿
