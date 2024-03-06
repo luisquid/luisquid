@@ -40,6 +40,8 @@
 - [Kalorian jam  👾](https://github.com/luisquid/kalorian-jam) 
 - [Encore crowd integration  🎮](https://github.com/luisquid/encore-crowd-integration) 
 - [Konbini game  🎮](https://github.com/luisquid/konbini-game) 
+- [Os animalgame  🎮](https://github.com/luisquid/os-animalgame) 
+- [3d renderer  📖](https://github.com/luisquid/3d-renderer) 
 
 
 
