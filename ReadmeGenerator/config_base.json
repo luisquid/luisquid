@@ -33,15 +33,18 @@
     },
     {
         "type": "description",
-        "data": "<br>TestI'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful! :D I'm currently helping our users in the Engine Support team @Unity Technologies."
+        "data": "<br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful! :D I'm currently helping our users in the Engine Support team @Unity Technologies."
     },
 
     {
         "type" : "techStack",
         "data": {
             "title": "Skills 🧰",
-            "image": "https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png",
-            "link": "https://hideout.ink/me/",
+            "right_image":
+            {
+                "image": "https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png",
+                "link": "https://hideout.ink/me/"
+            },
             "tech":[
                 "C# and C++ programming",
                 "UI/UX implementation", 
