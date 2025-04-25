@@ -4,12 +4,12 @@
 <br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful! :D I'm currently leading a support team @Unity Technologies.
 
 
+
+## Skills 🧰
 <a href="https://hideout.ink/me/">
 <img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png"/>
 </a>
 
-
-## Skills 🧰
 - C# and C++ programming
 - UI/UX implementation
 - Games Engine knowledge (Unity⭐⭐⭐, Unreal⭐⭐, Godot⭐)
@@ -18,6 +18,7 @@
 - Project and team management
 - Version control (Git⭐⭐⭐, Plastic SCM⭐)
 - Some graphic design knowledge (GIMP, Photoshop, CSP, Procreate)
+
 
 
 <br>
