@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/luisquid">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR.jpg"/>
+<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png"/>
 </a>
 
 
