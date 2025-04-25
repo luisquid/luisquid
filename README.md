@@ -5,7 +5,7 @@
 
 
 <a href="https://hideout.ink/me/">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png"/>
+<img align="right" height="200" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png"/>
 </a>
 
 
