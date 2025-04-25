@@ -36,14 +36,10 @@
         "data": "<br>I'm a mexican game developer and coder. I'm really curious on how things are made so I usually end up with different types of projects over here. Feel free to use anything you might find helpful! :D I'm currently leading a support team @Unity Technologies."
     },
     {
-        "type": "categories",
-        "data": {}
-    }, 
-    {
         "type": "rightImage",
         "data": {
             "image": "https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png",
-            "link": "https://twitter.com/luisquid"
+            "link": "https://hideout.ink/me/"
         }
     },
     {
@@ -97,18 +93,13 @@
                     "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
                 },
                 {
-                    "alt": "Squid's Twitter",
-                    "url": "https://twitter.com/luisquid",
-                    "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
-                },
-                {
                     "alt": "Squid's Twitch",
-                    "url": "https://www.twitch.tv/luisquidTV",
+                    "url": "https://www.twitch.tv/squidmakesTV",
                     "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
                 },
                 {
                     "alt": "Squid's Youtube",
-                    "url": "https://youtube.com/@luisquid",
+                    "url": "https://youtube.com/@squidmakesTV",
                     "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
                 }
             ]
