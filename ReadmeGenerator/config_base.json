@@ -40,6 +40,8 @@
         "type" : "techStack",
         "data": {
             "title": "Skills 🧰",
+            "image": "https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png",
+            "link": "https://hideout.ink/me/",
             "tech":[
                 "C# and C++ programming",
                 "UI/UX implementation", 
@@ -53,14 +55,6 @@
         }
     },
 
-    {
-        "type": "rightImage",
-        "data": {
-            "image": "https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png",
-            "link": "https://hideout.ink/me/"
-        }
-    },
-    
     {
         "type": "space",
         "data": {}
