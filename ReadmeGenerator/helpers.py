@@ -44,9 +44,9 @@ def right_image(data, context):
 
 def tech_stack(data, context):
     title = process_title(data["title"], context)
-    right_image = right_image(data["right_image"])
+    image = right_image(data["right_image"])
     tech = "- " + "\n- ".join(data["tech"])
-    return f"{title}\n{right_image}\n{tech}\n"
+    return f"{title}\n{image}\n{tech}\n"
 
 
 def awesome_projects(data, context):
