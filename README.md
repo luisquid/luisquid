@@ -15,11 +15,6 @@
 - Some graphic design knowledge (GIMP, Photoshop, CSP, Procreate)
 
 
-<a href="https://hideout.ink/me/">
-<img align="right" height="auto" width="200" src="https://github.com/luisquid/luisquid/raw/main/img/squidHR-circular.png"/>
-</a>
-
-
 <br>
 
 ## Active Projects 🔥
