@@ -35,7 +35,7 @@ def get_categories(_, context):
     return f'<p align="center">\n{categories_text}\n</p>\n'
 
 
-def right_image(data):
+def right_image(data, _):
     properties = 'align="right" height="auto" width="200"'
     return '<a href="{}">\n<img {} src="{}"/>\n</a>\n'.format(
         data["link"], properties, data["image"]
@@ -44,7 +44,7 @@ def right_image(data):
 
 def tech_stack(data, context):
     title = process_title(data["title"], context)
-    image = right_image(data["right_image"])
+    image = right_image(data["right_image"], "")
     tech = "- " + "\n- ".join(data["tech"])
     return f"{title}\n{image}\n{tech}\n"
 
