@@ -35,7 +35,7 @@ def get_categories(_, context):
     return f'<p align="center">\n{categories_text}\n</p>\n'
 
 
-def right_image(data, _):
+def right_image(data, context):
     properties = 'align="right" height="auto" width="200"'
     return '<a href="{}">\n<img {} src="{}"/>\n</a>\n'.format(
         data["link"], properties, data["image"]
